@@ -55,6 +55,7 @@ namespace _3HW {
         }
 
         protected void bt_Divide_Click(object sender, EventArgs e) {
+            lb_Operate.Text = "";
 
         }
 
